@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\bin\Debug\PrincipiOOprogramiranja.exe.config
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\bin\Debug\PrincipiOOprogramiranja.exe
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\bin\Debug\PrincipiOOprogramiranja.pdb
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\obj\Debug\PrincipiOOprogramiranja.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\obj\Debug\PrincipiOOprogramiranja.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\obj\Debug\PrincipiOOprogramiranja.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\obj\Debug\PrincipiOOprogramiranja.exe
+C:\Users\ucenik\source\repos\PrincipiOOprogramiranja\PrincipiOOprogramiranja\obj\Debug\PrincipiOOprogramiranja.pdb
