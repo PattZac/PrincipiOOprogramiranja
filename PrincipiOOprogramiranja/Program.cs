@@ -15,9 +15,12 @@ namespace PrincipiOOprogramiranja
         public double Oplosje { get => oplosje; set => oplosje = value; }
         public static int BrojacTijela { get => brojacTijela; set => brojacTijela = value; }
 
-        public override string ToString()
+        public GeometrijskoTijelo()
         {
             BrojacTijela++;
+        }
+        public override string ToString()
+        {
             return "- Volumen: "+Volumen+" km3, Oplosje: "+Oplosje+" km2 i Brojac Tijela: "+BrojacTijela+".";
         }
     }
